@@ -1,6 +1,7 @@
-# flutter_todo
+# flutter_official market app
 
-A new Flutter project.
+A new Flutter project. 
+simple app to leatn state management with flutter
 
 ## Getting Started
 
